@@ -2,6 +2,7 @@ public class Cachorro {
     double tamanho;
     String raca;
     int idade;
+    String cor;
 
     void latir() {
         System.out.println("Au Au ");
